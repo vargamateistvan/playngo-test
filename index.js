@@ -55,4 +55,4 @@ let sum = 0;
 numbers.forEach(row => {
 	sum += sumWin(row);
 });
-console.log(sum);
+console.log(sum + ' $');
